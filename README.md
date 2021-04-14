@@ -16,3 +16,9 @@ An introduction to docker and containerized development
 
 0. Run [Jenkins](https://hub.docker.com/_/jenkins) as a docker container
 1. Run [Gitlab Community Edition](https://docs.gitlab.com/omnibus/docker/) as a docker container.
+
+## Part 3
+
+We are going to "containerize" your python password generator
+
+0. https://runnable.com/docker/python/dockerize-your-python-application
